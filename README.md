@@ -126,7 +126,7 @@ No main, dois inteiros, maior e menor, são declarados. O programa solicita ao u
 Se maior for menor que menor, o programa imprime uma mensagem de erro. 
 Caso contrário, os números são passados para a função intervalo, e o resultado da soma do intervalo é impresso na tela.
 
-### execução
+## execução
 para executar qualquer um dos scripts o padrão é o mesmo 
 gcc nome_do_programa.c -o nome_executavel
 
