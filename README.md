@@ -105,4 +105,6 @@ Caso contrário, os números são passados para a função intervalo, e o result
 ### execução
 para executar qualquer um dos scripts o padrão é o mesmo 
 gcc nome_do_programa.c -o nome_executavel
-/.nome_executavel
+
+
+./nome_executavel
